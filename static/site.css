@@ -7,3 +7,12 @@ h3 {
     color: #cccccc;
     font-size: 30px;
 }
+.send {
+
+    background-color: rgb(80, 240, 240);
+    border-radius: 50%;
+    height: 40px;
+}
+.dets, .inp-username, .inp-message {
+    height: 35px;
+}
